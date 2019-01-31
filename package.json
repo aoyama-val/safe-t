@@ -6,5 +6,10 @@
   "scripts": {
   },
   "author": "Aoyama, Shotaro",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/aoyama-val/safe-t",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoyama-val/safe-t.git"
+  }
 }
