@@ -1,0 +1,10 @@
+{
+  "name": "safe-t",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Aoyama, Shotaro",
+  "license": "MIT"
+}
